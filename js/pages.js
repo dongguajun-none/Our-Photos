@@ -297,6 +297,6 @@ window.addEventListener('load', function () {
 			});
 		}, 2000);
 	} else {
-		document.body.innerHTML = '<div style="padding: 200px;"><div><img src="./images/code.png" alt=""></div><div>一起守护最好那个ta吧，手机扫码访问哟！</div></div>';
+		document.body.innerHTML = '<div style="padding: 200px;"><div><img src="./images/code.png" alt=""></div><div>爱你不需要理由，手机扫码访问哟！</div></div>';
 	}
 });
